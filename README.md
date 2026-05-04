@@ -1,6 +1,6 @@
 # Local Wikipedia RAG Assistant
 
-Demo video link: **TODO: paste Loom or unlisted YouTube link here before submission.**
+Demo video link: https://youtu.be/UPrrWSY9wqY
 
 ## Project Overview
 

@@ -32,7 +32,7 @@ The application follows a simple RAG pipeline:
 
 ## Design Choice
 
-This project uses **one vector store with metadata**.
+This project uses **Option B: one vector store with metadata**.
 
 All chunks are stored in a single Chroma collection named `wiki_rag`. Each chunk includes metadata such as:
 

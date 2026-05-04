@@ -1,0 +1,16 @@
+{
+  "people": [
+    "Albert Einstein", "Marie Curie", "Leonardo da Vinci", "William Shakespeare", 
+    "Ada Lovelace", "Nikola Tesla", "Lionel Messi", "Cristiano Ronaldo", 
+    "Taylor Swift", "Frida Kahlo", "Mahatma Gandhi", "Nelson Mandela", 
+    "Marilyn Monroe", "Elvis Presley", "Pablo Picasso", "Vincent van Gogh", 
+    "Stephen Hawking", "Isaac Newton", "Galileo Galilei", "Charles Darwin"
+  ],
+  "places": [
+    "Eiffel Tower", "Great Wall of China", "Taj Mahal", "Grand Canyon", 
+    "Machu Picchu", "Colosseum", "Hagia Sophia", "Statue of Liberty", 
+    "Pyramids of Giza", "Mount Everest", "Stonehenge", "Petra", 
+    "Acropolis of Athens", "Sydney Opera House", "Angkor Wat", "Alhambra", 
+    "Mount Fuji", "Niagara Falls", "Yellowstone National Park", "Burj Khalifa"
+  ]
+}

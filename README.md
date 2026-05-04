@@ -191,9 +191,11 @@ The 5-minute demo should show:
 - The system does not support arbitrary Wikipedia questions outside the ingested entities.
 - The first ingestion run can take time because embeddings are generated locally.
 
-## GitHub submission notes
+## Repository contents
 
-Commit these files:
+The repository includes the main application code, ingestion script, RAG logic, dependency list, documentation files, and the entity configuration file.
+
+Included files:
 
 ```text
 app.py
@@ -206,12 +208,3 @@ recommendation.md
 demo_script.md
 .gitignore
 data/entities.json
-```
-
-Do not commit:
-
-```text
-.venv/
-__pycache__/
-chroma_db/
-```
